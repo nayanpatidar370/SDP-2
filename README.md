@@ -1,4 +1,4 @@
-BCA SEM-5 Software Development Project - 1
+BCA SEM-6 Software Development Project - 2
 
 Tonsorium Twits : Web-Application for managing Salon related task as Admin, Owner, Staff and Customer.
 
